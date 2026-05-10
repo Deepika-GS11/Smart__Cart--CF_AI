@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>E-Commerce Recommender</title>
+    <style>
+        body { font-family: Arial; max-width: 800px; margin: 50px auto; padding: 20px; background: #f5f5f5; }
+        .container { background: white; padding: 30px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); }
+        h1 { color: #333; text-align: center; }
+        input { padding: 10px; font-size: 16px; border: 1px solid #ddd; border-radius: 5px; width: 100px; }
+        button { padding: 10px 20px; background: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; }
+        button:hover { background: #0056b3; }
+        .rec-item { background: #e7f3ff; margin: 10px 0; padding: 15px; border-radius: 5px; }
+        .error { background: #f8d7da; color: #721c24; padding: 15px; border-radius: 5px; margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🛒 E-Commerce Recommendation System</h1>
+        <p style="text-align: center;">Enter User ID (1-50) for personalized recommendations</p>
+        
+        <form method="POST" style="text-align: center; margin: 30px 0;">
+            <input type="number" name="user_id" min="1" max="50" placeholder="User ID" required>
+            <button type="submit">Get Recommendations 🎯</button>
+        </form>
+        
+        {% if error %}
+            <div class="error">{{ error }}</div>
+        {% endif %}
+        
+        {% if recommendations %}
+            <h2 style="color: #28a745;">✅ Top Recommendations:</h2>
+            {% for product, score in recommendations %}
+                <div class="rec-item">
+                    <strong>{{ product }}</strong> 
+                    <span style="float: right; color: #28a745; font-size: 1.2em;">⭐{{ "%.2f"|format(score) }}</span>
+                </div>
+            {% endfor %}
+        {% endif %}
+    </div>
+</body>
+</html>

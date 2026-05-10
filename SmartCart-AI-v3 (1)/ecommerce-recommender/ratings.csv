@@ -1,0 +1,1262 @@
+user_id,product_id,rating
+1,Ring Video Doorbell,4
+1,Oculus Quest 3,1
+1,DJI Mini Drone,4
+1,Breville Coffee Maker,2
+1,Samsung Odyssey Monitor,2
+1,Philips Hue Bulbs,1
+1,Sony WH-1000XM5,2
+1,Kindle Paperwhite,5
+1,Adidas Ultraboost,2
+1,Dell XPS 13,4
+1,Apple Watch Ultra,4
+1,Xbox Series X,4
+1,Apple Magic Keyboard,4
+1,Instant Pot Duo,5
+1,Patagonia Fleece,3
+1,Fitbit Charge 6,1
+1,Eufy RoboVac,4
+1,Levis 501 Jeans,2
+1,Ray-Ban Wayfarer,4
+1,North Face Jacket,2
+1,Echo Dot 5th Gen,2
+2,Yeti Rambler Tumbler,1
+2,Dell XPS 13,4
+2,AirPods Pro 2,1
+2,Samsung Galaxy S25,4
+2,Sony WH-1000XM5,2
+2,Arlo Pro 4 Camera,1
+2,GoPro Hero 12,5
+2,Surface Pro 9,3
+2,Logitech MX Master,4
+2,Corsair K95 Keyboard,3
+2,North Face Jacket,3
+2,MacBook Air M3,1
+2,Canon EOS R5,3
+2,Samsung 4K TV,5
+2,Ring Video Doorbell,3
+2,Dyson V15 Vacuum,1
+2,Instant Pot Duo,5
+2,Philips Hue Bulbs,2
+3,PS5 Console,3
+3,North Face Jacket,3
+3,Sony WH-1000XM5,1
+3,Corsair K95 Keyboard,5
+3,Nike Air Force 1,1
+3,Instant Pot Duo,3
+3,MacBook Air M3,2
+3,Xbox Series X,4
+3,Apple Magic Keyboard,3
+3,iPhone 15 Pro,1
+3,Fitbit Charge 6,4
+3,Roborock S8 Robot Vacuum,1
+3,Patagonia Fleece,1
+3,GoPro Hero 12,2
+3,Razer DeathAdder,4
+3,Levis 501 Jeans,4
+3,BenQ Eye-Care Monitor,2
+3,Ring Video Doorbell,3
+3,Dyson V15 Vacuum,1
+3,AirPods Pro 2,5
+3,Ninja Air Fryer,1
+3,HP Spectre x360,1
+3,Ray-Ban Wayfarer,3
+3,Samsung Galaxy S25,1
+3,Samsung 4K TV,2
+3,Yeti Rambler Tumbler,2
+3,Eufy RoboVac,4
+3,Apple Watch Ultra,5
+4,HP Spectre x360,2
+4,Razer DeathAdder,1
+4,Google Nest Hub,4
+4,LG OLED TV,4
+4,Dyson V15 Vacuum,1
+4,Philips Hue Bulbs,2
+4,Fitbit Charge 6,1
+4,Kindle Paperwhite,4
+4,Ray-Ban Wayfarer,5
+4,Samsung Odyssey Monitor,5
+4,Xbox Series X,3
+4,Bose QuietComfort,1
+4,Roborock S8 Robot Vacuum,1
+4,Patagonia Fleece,3
+4,Nike Air Force 1,3
+5,Kindle Paperwhite,3
+5,Ninja Air Fryer,3
+5,GoPro Hero 12,2
+5,Ray-Ban Wayfarer,5
+5,Sony WH-1000XM5,1
+5,North Face Jacket,4
+5,Ring Video Doorbell,1
+5,Logitech MX Master,5
+5,AirPods Pro 2,4
+5,Bose QuietComfort,5
+5,Google Nest Hub,3
+5,Dyson V15 Vacuum,4
+5,Yeti Rambler Tumbler,3
+5,BenQ Eye-Care Monitor,1
+5,Oculus Quest 3,1
+5,Apple Watch Ultra,4
+5,Echo Dot 5th Gen,4
+5,Arlo Pro 4 Camera,5
+5,Surface Pro 9,5
+5,DJI Mini Drone,3
+5,LG OLED TV,4
+5,iPhone 15 Pro,1
+5,Dell XPS 13,5
+5,Adidas Ultraboost,5
+5,Breville Coffee Maker,1
+5,Eufy RoboVac,5
+5,Samsung 4K TV,3
+5,Samsung Galaxy S25,4
+5,HP Spectre x360,1
+5,Fitbit Charge 6,4
+6,Sony WH-1000XM5,5
+6,Roborock S8 Robot Vacuum,2
+6,GoPro Hero 12,2
+6,Bose QuietComfort,1
+6,Arlo Pro 4 Camera,4
+6,AirPods Pro 2,2
+6,Razer DeathAdder,3
+6,Fitbit Charge 6,4
+6,Samsung Odyssey Monitor,5
+6,Apple Magic Keyboard,1
+6,Yeti Rambler Tumbler,5
+6,Echo Dot 5th Gen,4
+6,Dyson V15 Vacuum,4
+6,Surface Pro 9,4
+6,Apple iPad Pro,5
+7,Canon EOS R5,5
+7,Xbox Series X,4
+7,Ray-Ban Wayfarer,5
+7,Fitbit Charge 6,1
+7,Arlo Pro 4 Camera,4
+7,Razer DeathAdder,5
+7,Breville Coffee Maker,4
+7,MacBook Air M3,2
+7,PS5 Console,2
+7,Eufy RoboVac,5
+7,Instant Pot Duo,4
+7,Apple Watch Ultra,1
+7,Patagonia Fleece,5
+7,Apple Magic Keyboard,2
+7,Apple iPad Pro,2
+7,Echo Dot 5th Gen,5
+7,Nike Air Force 1,4
+7,Google Nest Hub,2
+7,Samsung Galaxy S25,4
+7,Bose QuietComfort,2
+7,Samsung 4K TV,2
+8,Oculus Quest 3,2
+8,Adidas Ultraboost,3
+8,Philips Hue Bulbs,1
+8,AirPods Pro 2,4
+8,Apple Magic Keyboard,2
+8,HP Spectre x360,5
+8,Razer DeathAdder,2
+8,Apple Watch Ultra,5
+8,North Face Jacket,3
+8,Fitbit Charge 6,5
+8,Samsung 4K TV,4
+8,Echo Dot 5th Gen,1
+8,Google Nest Hub,5
+8,Bose QuietComfort,5
+8,Kindle Paperwhite,1
+8,LG OLED TV,4
+8,Xbox Series X,2
+8,Ray-Ban Wayfarer,5
+8,Nike Air Force 1,1
+8,Ninja Air Fryer,3
+8,Corsair K95 Keyboard,1
+8,Surface Pro 9,3
+8,Samsung Odyssey Monitor,4
+8,Roborock S8 Robot Vacuum,2
+8,Canon EOS R5,1
+8,Yeti Rambler Tumbler,5
+8,Apple iPad Pro,4
+8,Eufy RoboVac,1
+8,BenQ Eye-Care Monitor,5
+8,MacBook Air M3,1
+8,Patagonia Fleece,3
+8,Dyson V15 Vacuum,1
+8,Ring Video Doorbell,1
+9,Roborock S8 Robot Vacuum,2
+9,Nike Air Force 1,4
+9,iPhone 15 Pro,1
+9,AirPods Pro 2,5
+9,Samsung Galaxy S25,5
+9,Ring Video Doorbell,2
+9,LG OLED TV,1
+9,Canon EOS R5,2
+9,North Face Jacket,3
+9,PS5 Console,2
+9,Surface Pro 9,2
+9,Apple Magic Keyboard,5
+9,Patagonia Fleece,5
+9,Razer DeathAdder,5
+9,Ray-Ban Wayfarer,3
+9,Eufy RoboVac,5
+9,Philips Hue Bulbs,1
+9,Corsair K95 Keyboard,4
+9,DJI Mini Drone,1
+9,Dell XPS 13,1
+9,Apple iPad Pro,5
+9,Logitech MX Master,4
+9,BenQ Eye-Care Monitor,4
+9,MacBook Air M3,4
+9,Sony WH-1000XM5,3
+9,Ninja Air Fryer,5
+9,Levis 501 Jeans,4
+9,Bose QuietComfort,3
+9,Oculus Quest 3,2
+9,Echo Dot 5th Gen,2
+9,Breville Coffee Maker,3
+10,Corsair K95 Keyboard,4
+10,Razer DeathAdder,4
+10,Apple iPad Pro,5
+10,Apple Watch Ultra,2
+10,Ray-Ban Wayfarer,4
+10,LG OLED TV,4
+10,Ring Video Doorbell,2
+10,Surface Pro 9,2
+10,Yeti Rambler Tumbler,4
+10,Philips Hue Bulbs,2
+10,Echo Dot 5th Gen,4
+10,Fitbit Charge 6,4
+10,Samsung Galaxy S25,5
+10,Adidas Ultraboost,1
+10,Patagonia Fleece,4
+10,North Face Jacket,3
+10,BenQ Eye-Care Monitor,1
+10,Dell XPS 13,1
+10,Sony WH-1000XM5,1
+10,Canon EOS R5,5
+10,PS5 Console,4
+11,Dell XPS 13,3
+11,Nike Air Force 1,1
+11,Instant Pot Duo,5
+11,PS5 Console,1
+11,Yeti Rambler Tumbler,1
+11,Eufy RoboVac,3
+11,Samsung Odyssey Monitor,5
+11,Philips Hue Bulbs,5
+11,Fitbit Charge 6,4
+11,DJI Mini Drone,1
+11,Levis 501 Jeans,1
+11,LG OLED TV,2
+11,Dyson V15 Vacuum,4
+11,Arlo Pro 4 Camera,2
+11,Apple Watch Ultra,2
+11,Razer DeathAdder,2
+11,Oculus Quest 3,3
+11,MacBook Air M3,3
+11,Adidas Ultraboost,2
+11,BenQ Eye-Care Monitor,4
+11,HP Spectre x360,1
+11,Roborock S8 Robot Vacuum,4
+11,Breville Coffee Maker,5
+11,Logitech MX Master,3
+11,Echo Dot 5th Gen,1
+11,Ninja Air Fryer,1
+11,Canon EOS R5,5
+12,HP Spectre x360,3
+12,Instant Pot Duo,3
+12,iPhone 15 Pro,5
+12,Levis 501 Jeans,2
+12,Logitech MX Master,5
+12,Ninja Air Fryer,2
+12,Nike Air Force 1,3
+12,Apple Watch Ultra,3
+12,Adidas Ultraboost,5
+12,MacBook Air M3,5
+12,Dyson V15 Vacuum,2
+12,Fitbit Charge 6,4
+12,Eufy RoboVac,2
+12,Kindle Paperwhite,5
+12,Ring Video Doorbell,5
+12,Corsair K95 Keyboard,1
+12,AirPods Pro 2,5
+12,Breville Coffee Maker,1
+12,Xbox Series X,4
+12,Samsung 4K TV,2
+12,Apple iPad Pro,2
+12,Oculus Quest 3,1
+12,BenQ Eye-Care Monitor,2
+12,Dell XPS 13,5
+12,Sony WH-1000XM5,3
+12,North Face Jacket,1
+12,Yeti Rambler Tumbler,2
+12,Ray-Ban Wayfarer,1
+13,Echo Dot 5th Gen,2
+13,Levis 501 Jeans,4
+13,Google Nest Hub,1
+13,Philips Hue Bulbs,1
+13,HP Spectre x360,5
+13,Dell XPS 13,4
+13,Sony WH-1000XM5,1
+13,BenQ Eye-Care Monitor,4
+13,Adidas Ultraboost,2
+13,Patagonia Fleece,3
+13,Ninja Air Fryer,1
+13,AirPods Pro 2,5
+13,Ray-Ban Wayfarer,2
+13,Logitech MX Master,4
+13,DJI Mini Drone,2
+13,Dyson V15 Vacuum,1
+13,Instant Pot Duo,4
+13,Canon EOS R5,3
+13,Xbox Series X,2
+13,Ring Video Doorbell,1
+13,MacBook Air M3,5
+13,Apple Watch Ultra,4
+13,Yeti Rambler Tumbler,2
+13,Apple iPad Pro,2
+13,Eufy RoboVac,3
+13,Apple Magic Keyboard,3
+13,Kindle Paperwhite,5
+13,Samsung Galaxy S25,5
+13,PS5 Console,1
+14,Apple Watch Ultra,1
+14,Patagonia Fleece,2
+14,Levis 501 Jeans,5
+14,Corsair K95 Keyboard,3
+14,iPhone 15 Pro,4
+14,Eufy RoboVac,5
+14,Kindle Paperwhite,3
+14,Apple iPad Pro,3
+14,Fitbit Charge 6,1
+14,Oculus Quest 3,2
+14,Apple Magic Keyboard,2
+14,Dyson V15 Vacuum,5
+14,Razer DeathAdder,2
+14,Ray-Ban Wayfarer,4
+14,Logitech MX Master,2
+15,Xbox Series X,3
+15,Ray-Ban Wayfarer,3
+15,Apple Watch Ultra,2
+15,Logitech MX Master,4
+15,DJI Mini Drone,1
+15,Oculus Quest 3,5
+15,Dell XPS 13,2
+15,Samsung Odyssey Monitor,1
+15,Apple Magic Keyboard,2
+15,Samsung 4K TV,3
+15,LG OLED TV,5
+15,Levis 501 Jeans,1
+15,Kindle Paperwhite,1
+15,Roborock S8 Robot Vacuum,1
+15,AirPods Pro 2,1
+15,Nike Air Force 1,1
+15,Philips Hue Bulbs,2
+15,Yeti Rambler Tumbler,5
+15,MacBook Air M3,3
+15,Apple iPad Pro,3
+15,Eufy RoboVac,3
+15,Echo Dot 5th Gen,3
+15,Arlo Pro 4 Camera,2
+15,Corsair K95 Keyboard,4
+15,Ninja Air Fryer,5
+15,Fitbit Charge 6,1
+15,Patagonia Fleece,4
+16,Surface Pro 9,2
+16,Apple Watch Ultra,3
+16,Adidas Ultraboost,4
+16,Ninja Air Fryer,2
+16,Yeti Rambler Tumbler,5
+16,GoPro Hero 12,2
+16,North Face Jacket,1
+16,HP Spectre x360,1
+16,LG OLED TV,4
+16,Fitbit Charge 6,3
+16,Patagonia Fleece,4
+16,Levis 501 Jeans,4
+16,MacBook Air M3,4
+16,Canon EOS R5,4
+16,Corsair K95 Keyboard,5
+16,PS5 Console,5
+16,Dyson V15 Vacuum,2
+16,Xbox Series X,1
+16,Roborock S8 Robot Vacuum,4
+16,Philips Hue Bulbs,2
+16,Nike Air Force 1,1
+17,Dyson V15 Vacuum,5
+17,Breville Coffee Maker,3
+17,Eufy RoboVac,2
+17,GoPro Hero 12,4
+17,Sony WH-1000XM5,2
+17,Dell XPS 13,5
+17,Surface Pro 9,1
+17,Levis 501 Jeans,1
+17,Patagonia Fleece,4
+17,Apple Magic Keyboard,1
+17,Kindle Paperwhite,1
+17,North Face Jacket,4
+17,Xbox Series X,4
+17,Apple Watch Ultra,5
+17,Samsung Galaxy S25,1
+17,AirPods Pro 2,1
+17,Roborock S8 Robot Vacuum,5
+17,MacBook Air M3,3
+17,Logitech MX Master,3
+17,Instant Pot Duo,3
+17,Ray-Ban Wayfarer,5
+17,PS5 Console,1
+17,Corsair K95 Keyboard,5
+17,Adidas Ultraboost,5
+17,DJI Mini Drone,3
+17,Samsung Odyssey Monitor,2
+17,Bose QuietComfort,1
+17,Nike Air Force 1,3
+17,Yeti Rambler Tumbler,2
+17,Razer DeathAdder,2
+17,Philips Hue Bulbs,4
+17,HP Spectre x360,1
+17,Echo Dot 5th Gen,2
+18,Adidas Ultraboost,1
+18,Surface Pro 9,5
+18,Philips Hue Bulbs,3
+18,Fitbit Charge 6,5
+18,North Face Jacket,3
+18,Dyson V15 Vacuum,4
+18,AirPods Pro 2,5
+18,Instant Pot Duo,4
+18,BenQ Eye-Care Monitor,2
+18,Breville Coffee Maker,2
+18,Canon EOS R5,1
+18,Kindle Paperwhite,5
+18,Levis 501 Jeans,4
+18,Samsung Odyssey Monitor,3
+18,Samsung Galaxy S25,2
+18,Samsung 4K TV,2
+18,Ninja Air Fryer,3
+18,DJI Mini Drone,4
+18,PS5 Console,4
+18,Sony WH-1000XM5,5
+19,MacBook Air M3,2
+19,Levis 501 Jeans,4
+19,Arlo Pro 4 Camera,5
+19,Instant Pot Duo,2
+19,DJI Mini Drone,5
+19,Dyson V15 Vacuum,3
+19,Philips Hue Bulbs,1
+19,iPhone 15 Pro,3
+19,HP Spectre x360,2
+19,BenQ Eye-Care Monitor,4
+19,Bose QuietComfort,5
+19,Samsung Odyssey Monitor,1
+19,AirPods Pro 2,5
+19,Ninja Air Fryer,2
+19,Sony WH-1000XM5,5
+19,Google Nest Hub,1
+19,Oculus Quest 3,2
+19,Xbox Series X,5
+19,Dell XPS 13,4
+20,DJI Mini Drone,3
+20,AirPods Pro 2,3
+20,Patagonia Fleece,2
+20,HP Spectre x360,5
+20,Dyson V15 Vacuum,4
+20,Apple Watch Ultra,4
+20,Fitbit Charge 6,3
+20,GoPro Hero 12,2
+20,Nike Air Force 1,4
+20,LG OLED TV,3
+20,Xbox Series X,5
+20,Surface Pro 9,4
+20,Levis 501 Jeans,3
+20,Ray-Ban Wayfarer,3
+20,Adidas Ultraboost,1
+20,Breville Coffee Maker,5
+20,Google Nest Hub,1
+20,Kindle Paperwhite,2
+20,North Face Jacket,1
+20,BenQ Eye-Care Monitor,1
+20,Ring Video Doorbell,4
+20,MacBook Air M3,3
+20,Yeti Rambler Tumbler,5
+20,Instant Pot Duo,1
+20,Bose QuietComfort,5
+20,Dell XPS 13,1
+20,Arlo Pro 4 Camera,2
+20,Eufy RoboVac,1
+21,Kindle Paperwhite,1
+21,PS5 Console,5
+21,Roborock S8 Robot Vacuum,2
+21,AirPods Pro 2,1
+21,Apple iPad Pro,5
+21,Dell XPS 13,2
+21,Canon EOS R5,4
+21,BenQ Eye-Care Monitor,2
+21,Sony WH-1000XM5,3
+21,Dyson V15 Vacuum,2
+21,Samsung Galaxy S25,2
+21,GoPro Hero 12,3
+21,Samsung Odyssey Monitor,5
+21,Surface Pro 9,5
+21,iPhone 15 Pro,2
+21,Xbox Series X,3
+21,Ring Video Doorbell,3
+21,MacBook Air M3,4
+21,DJI Mini Drone,5
+21,Instant Pot Duo,1
+21,Apple Magic Keyboard,5
+21,Patagonia Fleece,5
+21,Nike Air Force 1,4
+21,Google Nest Hub,1
+21,Yeti Rambler Tumbler,4
+21,Adidas Ultraboost,1
+22,Philips Hue Bulbs,5
+22,Samsung 4K TV,3
+22,Razer DeathAdder,5
+22,HP Spectre x360,2
+22,Ray-Ban Wayfarer,3
+22,Echo Dot 5th Gen,2
+22,Kindle Paperwhite,1
+22,LG OLED TV,2
+22,Apple Magic Keyboard,1
+22,DJI Mini Drone,1
+22,Samsung Galaxy S25,2
+22,Yeti Rambler Tumbler,3
+22,Logitech MX Master,5
+22,Apple iPad Pro,5
+22,Oculus Quest 3,1
+22,Nike Air Force 1,1
+22,Apple Watch Ultra,3
+22,AirPods Pro 2,4
+22,Canon EOS R5,2
+22,Samsung Odyssey Monitor,1
+22,Arlo Pro 4 Camera,5
+22,Dyson V15 Vacuum,3
+22,Corsair K95 Keyboard,2
+22,PS5 Console,3
+23,Ninja Air Fryer,1
+23,Oculus Quest 3,2
+23,iPhone 15 Pro,5
+23,Levis 501 Jeans,5
+23,Apple Watch Ultra,3
+23,Ring Video Doorbell,2
+23,Samsung 4K TV,3
+23,Google Nest Hub,2
+23,Instant Pot Duo,3
+23,Breville Coffee Maker,5
+23,Razer DeathAdder,5
+23,AirPods Pro 2,1
+23,LG OLED TV,3
+23,Yeti Rambler Tumbler,4
+23,HP Spectre x360,1
+23,Eufy RoboVac,3
+23,Apple Magic Keyboard,3
+23,Sony WH-1000XM5,1
+23,Nike Air Force 1,5
+23,Bose QuietComfort,3
+23,Apple iPad Pro,5
+23,Ray-Ban Wayfarer,1
+23,Dyson V15 Vacuum,5
+23,Samsung Galaxy S25,2
+23,BenQ Eye-Care Monitor,4
+23,Surface Pro 9,3
+23,Arlo Pro 4 Camera,4
+23,GoPro Hero 12,5
+23,DJI Mini Drone,3
+23,Philips Hue Bulbs,5
+23,Roborock S8 Robot Vacuum,2
+23,Samsung Odyssey Monitor,1
+24,Canon EOS R5,1
+24,Yeti Rambler Tumbler,2
+24,iPhone 15 Pro,1
+24,Instant Pot Duo,2
+24,PS5 Console,3
+24,DJI Mini Drone,2
+24,Eufy RoboVac,2
+24,Bose QuietComfort,5
+24,Dell XPS 13,4
+24,BenQ Eye-Care Monitor,4
+24,Sony WH-1000XM5,3
+24,Ninja Air Fryer,3
+24,Echo Dot 5th Gen,4
+24,Samsung 4K TV,5
+24,Xbox Series X,4
+24,Roborock S8 Robot Vacuum,5
+24,Ring Video Doorbell,3
+24,AirPods Pro 2,1
+24,Levis 501 Jeans,3
+24,MacBook Air M3,3
+24,GoPro Hero 12,2
+24,Arlo Pro 4 Camera,2
+24,Nike Air Force 1,2
+24,Oculus Quest 3,2
+24,Adidas Ultraboost,5
+24,North Face Jacket,4
+24,Razer DeathAdder,1
+24,Apple Magic Keyboard,3
+24,Corsair K95 Keyboard,5
+24,Apple Watch Ultra,1
+24,Dyson V15 Vacuum,5
+24,Apple iPad Pro,5
+24,Kindle Paperwhite,3
+25,Ray-Ban Wayfarer,5
+25,Samsung Odyssey Monitor,4
+25,Kindle Paperwhite,5
+25,Dell XPS 13,4
+25,Razer DeathAdder,2
+25,LG OLED TV,3
+25,Surface Pro 9,4
+25,Apple Watch Ultra,1
+25,Roborock S8 Robot Vacuum,1
+25,Oculus Quest 3,4
+25,PS5 Console,4
+25,Adidas Ultraboost,4
+25,Apple Magic Keyboard,1
+25,Nike Air Force 1,1
+25,Ring Video Doorbell,4
+25,Patagonia Fleece,5
+25,Arlo Pro 4 Camera,5
+25,Dyson V15 Vacuum,2
+25,BenQ Eye-Care Monitor,3
+25,HP Spectre x360,5
+25,Eufy RoboVac,1
+25,Bose QuietComfort,5
+25,Corsair K95 Keyboard,2
+25,iPhone 15 Pro,2
+25,Echo Dot 5th Gen,3
+25,Breville Coffee Maker,5
+25,Xbox Series X,1
+25,Yeti Rambler Tumbler,1
+25,AirPods Pro 2,4
+25,Philips Hue Bulbs,1
+25,Google Nest Hub,3
+25,Sony WH-1000XM5,3
+25,Levis 501 Jeans,1
+25,Ninja Air Fryer,1
+26,Sony WH-1000XM5,4
+26,Roborock S8 Robot Vacuum,3
+26,Dell XPS 13,3
+26,North Face Jacket,4
+26,Yeti Rambler Tumbler,4
+26,DJI Mini Drone,2
+26,BenQ Eye-Care Monitor,2
+26,Arlo Pro 4 Camera,3
+26,Xbox Series X,1
+26,MacBook Air M3,4
+26,Canon EOS R5,2
+26,Nike Air Force 1,3
+26,Apple iPad Pro,2
+26,Dyson V15 Vacuum,4
+26,Ninja Air Fryer,4
+26,Echo Dot 5th Gen,5
+26,LG OLED TV,1
+26,Eufy RoboVac,5
+26,Patagonia Fleece,3
+26,Fitbit Charge 6,2
+26,PS5 Console,3
+26,AirPods Pro 2,4
+26,Corsair K95 Keyboard,5
+26,Apple Watch Ultra,5
+26,Philips Hue Bulbs,5
+26,Oculus Quest 3,3
+27,Apple Magic Keyboard,4
+27,Google Nest Hub,3
+27,Levis 501 Jeans,5
+27,Nike Air Force 1,2
+27,Ring Video Doorbell,5
+27,Echo Dot 5th Gen,1
+27,Canon EOS R5,3
+27,HP Spectre x360,2
+27,Eufy RoboVac,4
+27,Kindle Paperwhite,2
+27,Arlo Pro 4 Camera,4
+27,Fitbit Charge 6,2
+27,Philips Hue Bulbs,5
+27,Samsung Galaxy S25,5
+27,DJI Mini Drone,5
+27,Samsung Odyssey Monitor,1
+27,LG OLED TV,4
+27,Adidas Ultraboost,5
+27,Razer DeathAdder,1
+27,Roborock S8 Robot Vacuum,4
+27,Xbox Series X,2
+27,Surface Pro 9,1
+27,Dell XPS 13,3
+27,Sony WH-1000XM5,1
+27,Instant Pot Duo,1
+27,PS5 Console,4
+28,North Face Jacket,1
+28,Apple Watch Ultra,5
+28,DJI Mini Drone,4
+28,Samsung Galaxy S25,2
+28,Surface Pro 9,5
+28,Apple Magic Keyboard,1
+28,Razer DeathAdder,3
+28,Dell XPS 13,5
+28,AirPods Pro 2,5
+28,Yeti Rambler Tumbler,3
+28,Echo Dot 5th Gen,5
+28,Kindle Paperwhite,1
+28,PS5 Console,1
+28,Logitech MX Master,3
+28,Ninja Air Fryer,4
+28,Patagonia Fleece,2
+29,DJI Mini Drone,5
+29,Ring Video Doorbell,5
+29,Apple Watch Ultra,1
+29,MacBook Air M3,2
+29,Corsair K95 Keyboard,4
+29,Kindle Paperwhite,2
+29,Dell XPS 13,2
+29,GoPro Hero 12,1
+29,Adidas Ultraboost,1
+29,Fitbit Charge 6,1
+29,Apple Magic Keyboard,1
+29,Dyson V15 Vacuum,5
+29,Philips Hue Bulbs,1
+29,Breville Coffee Maker,5
+29,Surface Pro 9,5
+29,BenQ Eye-Care Monitor,1
+29,North Face Jacket,3
+29,Yeti Rambler Tumbler,4
+29,Patagonia Fleece,2
+29,Ray-Ban Wayfarer,5
+29,Canon EOS R5,4
+29,Logitech MX Master,3
+29,Samsung Galaxy S25,2
+29,Oculus Quest 3,2
+29,Samsung 4K TV,5
+29,Bose QuietComfort,1
+29,Sony WH-1000XM5,3
+29,AirPods Pro 2,5
+29,Arlo Pro 4 Camera,3
+29,Eufy RoboVac,1
+29,Samsung Odyssey Monitor,1
+29,iPhone 15 Pro,5
+29,Ninja Air Fryer,1
+29,Nike Air Force 1,4
+30,Philips Hue Bulbs,5
+30,Arlo Pro 4 Camera,4
+30,Google Nest Hub,1
+30,iPhone 15 Pro,4
+30,North Face Jacket,3
+30,Surface Pro 9,3
+30,GoPro Hero 12,4
+30,Kindle Paperwhite,5
+30,Patagonia Fleece,5
+30,Samsung 4K TV,3
+30,Apple Watch Ultra,2
+30,Samsung Odyssey Monitor,5
+30,Dell XPS 13,4
+30,Instant Pot Duo,5
+30,Breville Coffee Maker,4
+30,Roborock S8 Robot Vacuum,3
+30,PS5 Console,5
+30,LG OLED TV,4
+30,Sony WH-1000XM5,3
+30,Dyson V15 Vacuum,2
+30,DJI Mini Drone,4
+31,MacBook Air M3,1
+31,Levis 501 Jeans,2
+31,DJI Mini Drone,3
+31,Fitbit Charge 6,5
+31,Patagonia Fleece,4
+31,Nike Air Force 1,2
+31,Ninja Air Fryer,3
+31,Breville Coffee Maker,4
+31,Adidas Ultraboost,4
+31,Arlo Pro 4 Camera,2
+31,Sony WH-1000XM5,1
+31,Ring Video Doorbell,2
+31,AirPods Pro 2,3
+31,LG OLED TV,4
+31,Yeti Rambler Tumbler,2
+31,Google Nest Hub,1
+31,Bose QuietComfort,2
+31,GoPro Hero 12,5
+31,Corsair K95 Keyboard,1
+31,Dyson V15 Vacuum,3
+31,iPhone 15 Pro,4
+31,Apple Magic Keyboard,2
+31,Samsung 4K TV,1
+31,Philips Hue Bulbs,5
+31,Instant Pot Duo,1
+31,Roborock S8 Robot Vacuum,5
+31,Logitech MX Master,3
+31,Apple iPad Pro,4
+31,Samsung Odyssey Monitor,3
+31,North Face Jacket,2
+31,PS5 Console,1
+31,Razer DeathAdder,5
+32,Bose QuietComfort,2
+32,Ring Video Doorbell,4
+32,GoPro Hero 12,4
+32,BenQ Eye-Care Monitor,2
+32,Echo Dot 5th Gen,4
+32,LG OLED TV,5
+32,Fitbit Charge 6,5
+32,Xbox Series X,5
+32,Philips Hue Bulbs,1
+32,Samsung 4K TV,2
+32,Ray-Ban Wayfarer,1
+32,Levis 501 Jeans,4
+32,HP Spectre x360,1
+32,Instant Pot Duo,4
+32,Roborock S8 Robot Vacuum,4
+32,Breville Coffee Maker,3
+33,Eufy RoboVac,3
+33,Roborock S8 Robot Vacuum,3
+33,Ray-Ban Wayfarer,4
+33,Logitech MX Master,5
+33,DJI Mini Drone,4
+33,Bose QuietComfort,2
+33,HP Spectre x360,4
+33,Oculus Quest 3,1
+33,Razer DeathAdder,2
+33,MacBook Air M3,2
+33,Apple iPad Pro,5
+33,Yeti Rambler Tumbler,3
+33,North Face Jacket,2
+33,Canon EOS R5,3
+33,Xbox Series X,4
+33,Arlo Pro 4 Camera,1
+33,Adidas Ultraboost,5
+33,PS5 Console,3
+33,Kindle Paperwhite,2
+33,Apple Magic Keyboard,3
+33,Echo Dot 5th Gen,2
+33,Dell XPS 13,3
+33,Fitbit Charge 6,2
+33,Samsung Galaxy S25,4
+33,Samsung Odyssey Monitor,2
+33,Corsair K95 Keyboard,2
+33,Dyson V15 Vacuum,1
+33,Levis 501 Jeans,2
+33,BenQ Eye-Care Monitor,1
+33,Google Nest Hub,5
+34,GoPro Hero 12,3
+34,Apple Magic Keyboard,4
+34,Oculus Quest 3,1
+34,Arlo Pro 4 Camera,4
+34,Samsung 4K TV,4
+34,Surface Pro 9,1
+34,Philips Hue Bulbs,5
+34,Ring Video Doorbell,4
+34,Apple Watch Ultra,4
+34,Apple iPad Pro,5
+34,Google Nest Hub,4
+34,PS5 Console,4
+34,LG OLED TV,4
+34,North Face Jacket,2
+34,Adidas Ultraboost,5
+35,Dyson V15 Vacuum,4
+35,Levis 501 Jeans,2
+35,Adidas Ultraboost,3
+35,HP Spectre x360,1
+35,Breville Coffee Maker,5
+35,Philips Hue Bulbs,4
+35,Xbox Series X,5
+35,Nike Air Force 1,2
+35,Surface Pro 9,5
+35,North Face Jacket,2
+35,Canon EOS R5,5
+35,Ring Video Doorbell,1
+35,MacBook Air M3,1
+35,Logitech MX Master,1
+35,Dell XPS 13,1
+35,Yeti Rambler Tumbler,1
+35,Razer DeathAdder,1
+35,Instant Pot Duo,2
+35,Apple iPad Pro,4
+35,Patagonia Fleece,5
+35,Kindle Paperwhite,1
+35,iPhone 15 Pro,2
+35,Samsung Odyssey Monitor,2
+35,Google Nest Hub,2
+35,PS5 Console,4
+35,Oculus Quest 3,5
+35,LG OLED TV,4
+35,Ray-Ban Wayfarer,3
+35,Apple Magic Keyboard,2
+35,Bose QuietComfort,3
+35,AirPods Pro 2,1
+35,Echo Dot 5th Gen,1
+35,Ninja Air Fryer,4
+35,Roborock S8 Robot Vacuum,5
+36,GoPro Hero 12,1
+36,Patagonia Fleece,4
+36,Levis 501 Jeans,4
+36,MacBook Air M3,1
+36,Samsung Galaxy S25,1
+36,Surface Pro 9,1
+36,Dyson V15 Vacuum,2
+36,Adidas Ultraboost,2
+36,Google Nest Hub,2
+36,Samsung Odyssey Monitor,5
+36,Arlo Pro 4 Camera,4
+36,Ray-Ban Wayfarer,4
+36,Apple iPad Pro,3
+36,AirPods Pro 2,2
+36,DJI Mini Drone,5
+36,Apple Magic Keyboard,5
+36,Eufy RoboVac,4
+36,Xbox Series X,2
+36,Razer DeathAdder,3
+36,Samsung 4K TV,2
+36,Apple Watch Ultra,1
+36,Yeti Rambler Tumbler,2
+36,Bose QuietComfort,1
+36,HP Spectre x360,1
+36,Canon EOS R5,3
+36,Dell XPS 13,4
+36,Fitbit Charge 6,2
+36,Oculus Quest 3,1
+36,Echo Dot 5th Gen,2
+36,Ninja Air Fryer,4
+36,Instant Pot Duo,4
+36,Breville Coffee Maker,5
+36,North Face Jacket,4
+37,Adidas Ultraboost,5
+37,Apple Magic Keyboard,2
+37,North Face Jacket,2
+37,Fitbit Charge 6,1
+37,Dell XPS 13,4
+37,Levis 501 Jeans,5
+37,Razer DeathAdder,3
+37,Ray-Ban Wayfarer,1
+37,Yeti Rambler Tumbler,4
+37,MacBook Air M3,3
+37,Eufy RoboVac,2
+37,iPhone 15 Pro,2
+37,Sony WH-1000XM5,3
+37,GoPro Hero 12,1
+37,AirPods Pro 2,2
+37,DJI Mini Drone,5
+37,Roborock S8 Robot Vacuum,3
+37,Oculus Quest 3,3
+37,PS5 Console,2
+37,Instant Pot Duo,1
+37,Bose QuietComfort,5
+37,Samsung Odyssey Monitor,1
+37,Samsung Galaxy S25,4
+37,Arlo Pro 4 Camera,4
+37,BenQ Eye-Care Monitor,2
+37,Apple iPad Pro,2
+37,Xbox Series X,2
+37,HP Spectre x360,4
+37,Philips Hue Bulbs,1
+37,Samsung 4K TV,1
+37,Canon EOS R5,2
+37,Ring Video Doorbell,5
+37,LG OLED TV,1
+38,Arlo Pro 4 Camera,3
+38,iPhone 15 Pro,5
+38,Bose QuietComfort,4
+38,Logitech MX Master,2
+38,Dyson V15 Vacuum,5
+38,Patagonia Fleece,4
+38,Adidas Ultraboost,3
+38,DJI Mini Drone,5
+38,Samsung Galaxy S25,4
+38,Breville Coffee Maker,1
+38,Roborock S8 Robot Vacuum,1
+38,Corsair K95 Keyboard,2
+38,LG OLED TV,4
+38,Apple iPad Pro,1
+38,GoPro Hero 12,3
+38,Eufy RoboVac,4
+38,Sony WH-1000XM5,3
+38,MacBook Air M3,3
+38,Razer DeathAdder,1
+38,Xbox Series X,4
+38,Surface Pro 9,5
+38,North Face Jacket,1
+38,Ring Video Doorbell,1
+38,Kindle Paperwhite,4
+38,Echo Dot 5th Gen,4
+38,Fitbit Charge 6,3
+38,Philips Hue Bulbs,4
+38,Samsung Odyssey Monitor,3
+38,Apple Magic Keyboard,1
+38,Apple Watch Ultra,2
+38,Nike Air Force 1,5
+38,Samsung 4K TV,1
+38,Ninja Air Fryer,4
+38,Oculus Quest 3,5
+39,Xbox Series X,4
+39,Samsung 4K TV,2
+39,Logitech MX Master,2
+39,LG OLED TV,1
+39,Levis 501 Jeans,5
+39,Razer DeathAdder,4
+39,Samsung Galaxy S25,1
+39,Canon EOS R5,5
+39,Eufy RoboVac,4
+39,HP Spectre x360,3
+39,PS5 Console,4
+39,Bose QuietComfort,2
+39,Nike Air Force 1,2
+39,Apple Magic Keyboard,3
+39,Google Nest Hub,1
+39,Ring Video Doorbell,5
+39,Dyson V15 Vacuum,4
+39,Fitbit Charge 6,2
+39,Adidas Ultraboost,1
+39,Echo Dot 5th Gen,3
+39,DJI Mini Drone,2
+39,iPhone 15 Pro,3
+39,Breville Coffee Maker,4
+39,Patagonia Fleece,5
+40,Nike Air Force 1,1
+40,Echo Dot 5th Gen,2
+40,Corsair K95 Keyboard,2
+40,Levis 501 Jeans,2
+40,Philips Hue Bulbs,3
+40,Google Nest Hub,5
+40,Instant Pot Duo,4
+40,Kindle Paperwhite,4
+40,HP Spectre x360,3
+40,Samsung Odyssey Monitor,2
+40,Bose QuietComfort,3
+40,Razer DeathAdder,3
+40,Roborock S8 Robot Vacuum,1
+40,Surface Pro 9,5
+40,AirPods Pro 2,4
+40,Samsung 4K TV,2
+40,GoPro Hero 12,4
+40,Canon EOS R5,4
+40,Samsung Galaxy S25,5
+40,North Face Jacket,4
+40,DJI Mini Drone,4
+40,Apple Watch Ultra,3
+40,Ray-Ban Wayfarer,5
+40,Dell XPS 13,1
+41,HP Spectre x360,1
+41,iPhone 15 Pro,4
+41,Instant Pot Duo,1
+41,Kindle Paperwhite,5
+41,Patagonia Fleece,4
+41,Samsung Odyssey Monitor,3
+41,Arlo Pro 4 Camera,5
+41,Apple Watch Ultra,4
+41,North Face Jacket,3
+41,BenQ Eye-Care Monitor,1
+41,Eufy RoboVac,4
+41,Apple iPad Pro,3
+41,Breville Coffee Maker,1
+41,Roborock S8 Robot Vacuum,5
+41,Samsung 4K TV,5
+41,Fitbit Charge 6,5
+41,Levis 501 Jeans,5
+41,Logitech MX Master,2
+41,Bose QuietComfort,4
+41,Echo Dot 5th Gen,4
+41,DJI Mini Drone,2
+41,Ninja Air Fryer,3
+42,Echo Dot 5th Gen,2
+42,Google Nest Hub,2
+42,Apple Watch Ultra,3
+42,Logitech MX Master,1
+42,Samsung Odyssey Monitor,1
+42,Philips Hue Bulbs,5
+42,Surface Pro 9,4
+42,Kindle Paperwhite,3
+42,iPhone 15 Pro,3
+42,LG OLED TV,3
+42,Nike Air Force 1,1
+42,Levis 501 Jeans,4
+42,BenQ Eye-Care Monitor,5
+42,Ray-Ban Wayfarer,2
+42,Fitbit Charge 6,2
+42,North Face Jacket,3
+42,Ninja Air Fryer,4
+42,Eufy RoboVac,1
+42,PS5 Console,4
+43,BenQ Eye-Care Monitor,3
+43,Sony WH-1000XM5,2
+43,Apple Watch Ultra,3
+43,Levis 501 Jeans,1
+43,Surface Pro 9,4
+43,PS5 Console,4
+43,Ring Video Doorbell,5
+43,Ray-Ban Wayfarer,1
+43,HP Spectre x360,3
+43,Apple Magic Keyboard,4
+43,Oculus Quest 3,1
+43,DJI Mini Drone,4
+43,Canon EOS R5,3
+43,Apple iPad Pro,4
+43,Instant Pot Duo,5
+44,Ninja Air Fryer,2
+44,Instant Pot Duo,1
+44,Ray-Ban Wayfarer,5
+44,AirPods Pro 2,4
+44,Apple Watch Ultra,4
+44,Oculus Quest 3,1
+44,HP Spectre x360,3
+44,Patagonia Fleece,2
+44,iPhone 15 Pro,4
+44,Yeti Rambler Tumbler,5
+44,Kindle Paperwhite,5
+44,Arlo Pro 4 Camera,3
+44,DJI Mini Drone,4
+44,Bose QuietComfort,1
+44,Sony WH-1000XM5,5
+44,BenQ Eye-Care Monitor,3
+44,Logitech MX Master,4
+44,Echo Dot 5th Gen,4
+45,Apple Watch Ultra,5
+45,Sony WH-1000XM5,5
+45,Arlo Pro 4 Camera,1
+45,Adidas Ultraboost,2
+45,Bose QuietComfort,3
+45,Instant Pot Duo,1
+45,Levis 501 Jeans,1
+45,Canon EOS R5,5
+45,Corsair K95 Keyboard,1
+45,GoPro Hero 12,1
+45,Echo Dot 5th Gen,1
+45,Apple Magic Keyboard,5
+45,HP Spectre x360,3
+45,Dell XPS 13,3
+45,Ninja Air Fryer,1
+45,Ring Video Doorbell,5
+45,Fitbit Charge 6,3
+45,Logitech MX Master,3
+46,Corsair K95 Keyboard,5
+46,PS5 Console,1
+46,Apple Watch Ultra,2
+46,AirPods Pro 2,2
+46,Adidas Ultraboost,3
+46,Surface Pro 9,3
+46,Levis 501 Jeans,5
+46,Canon EOS R5,2
+46,Ray-Ban Wayfarer,2
+46,Ninja Air Fryer,3
+46,Logitech MX Master,1
+46,BenQ Eye-Care Monitor,1
+46,Echo Dot 5th Gen,4
+46,MacBook Air M3,3
+46,Razer DeathAdder,4
+46,Samsung Odyssey Monitor,3
+46,Philips Hue Bulbs,5
+46,Eufy RoboVac,2
+46,Dell XPS 13,5
+46,Samsung Galaxy S25,3
+46,Samsung 4K TV,2
+46,Patagonia Fleece,1
+46,Instant Pot Duo,1
+46,HP Spectre x360,4
+46,North Face Jacket,3
+47,Kindle Paperwhite,4
+47,Fitbit Charge 6,2
+47,Ring Video Doorbell,4
+47,Google Nest Hub,3
+47,Samsung 4K TV,3
+47,Ray-Ban Wayfarer,3
+47,North Face Jacket,3
+47,Instant Pot Duo,1
+47,Razer DeathAdder,1
+47,Echo Dot 5th Gen,5
+47,Sony WH-1000XM5,2
+47,Philips Hue Bulbs,4
+47,Yeti Rambler Tumbler,4
+47,DJI Mini Drone,1
+47,Apple Watch Ultra,4
+47,Logitech MX Master,1
+47,Breville Coffee Maker,5
+47,Dell XPS 13,2
+47,Levis 501 Jeans,5
+47,Canon EOS R5,3
+47,Nike Air Force 1,3
+47,Apple Magic Keyboard,3
+47,Eufy RoboVac,5
+47,Apple iPad Pro,4
+47,Surface Pro 9,2
+48,Ninja Air Fryer,5
+48,iPhone 15 Pro,4
+48,Fitbit Charge 6,5
+48,Nike Air Force 1,4
+48,Dyson V15 Vacuum,3
+48,Ray-Ban Wayfarer,4
+48,Oculus Quest 3,3
+48,Logitech MX Master,1
+48,MacBook Air M3,4
+48,Apple Watch Ultra,5
+48,Canon EOS R5,3
+48,Yeti Rambler Tumbler,5
+48,Razer DeathAdder,2
+48,Samsung 4K TV,3
+48,Samsung Galaxy S25,4
+48,Samsung Odyssey Monitor,3
+48,PS5 Console,5
+48,Ring Video Doorbell,1
+48,Xbox Series X,3
+48,Sony WH-1000XM5,4
+48,Apple Magic Keyboard,2
+48,Levis 501 Jeans,1
+48,HP Spectre x360,2
+48,Apple iPad Pro,3
+48,Instant Pot Duo,5
+48,Arlo Pro 4 Camera,5
+48,Eufy RoboVac,4
+48,Kindle Paperwhite,5
+49,Kindle Paperwhite,4
+49,Xbox Series X,3
+49,Patagonia Fleece,4
+49,Bose QuietComfort,5
+49,Corsair K95 Keyboard,3
+49,Ray-Ban Wayfarer,1
+49,PS5 Console,4
+49,Samsung Galaxy S25,5
+49,MacBook Air M3,1
+49,Logitech MX Master,1
+49,Samsung 4K TV,1
+49,Philips Hue Bulbs,1
+49,Apple Watch Ultra,3
+49,Nike Air Force 1,3
+49,HP Spectre x360,3
+49,iPhone 15 Pro,5
+49,Breville Coffee Maker,5
+49,Echo Dot 5th Gen,5
+49,Dell XPS 13,2
+49,Eufy RoboVac,5
+49,Apple Magic Keyboard,3
+49,LG OLED TV,3
+49,Apple iPad Pro,2
+49,Levis 501 Jeans,2
+49,Surface Pro 9,5
+49,Roborock S8 Robot Vacuum,4
+49,Arlo Pro 4 Camera,2
+49,AirPods Pro 2,1
+49,Google Nest Hub,3
+49,Oculus Quest 3,1
+49,Fitbit Charge 6,3
+50,Samsung 4K TV,2
+50,Ray-Ban Wayfarer,2
+50,Patagonia Fleece,2
+50,Arlo Pro 4 Camera,5
+50,Roborock S8 Robot Vacuum,4
+50,DJI Mini Drone,2
+50,Levis 501 Jeans,3
+50,Yeti Rambler Tumbler,3
+50,North Face Jacket,5
+50,Apple Magic Keyboard,5
+50,Ninja Air Fryer,1
+50,Dyson V15 Vacuum,1
+50,Razer DeathAdder,1
+50,LG OLED TV,5
+50,BenQ Eye-Care Monitor,5
+50,Canon EOS R5,5
+50,AirPods Pro 2,3
+50,Eufy RoboVac,5
+50,Instant Pot Duo,3
+50,Fitbit Charge 6,1
+50,PS5 Console,1
+50,Apple iPad Pro,1
+50,HP Spectre x360,2
+50,Samsung Galaxy S25,2
+50,Google Nest Hub,4
+50,Dell XPS 13,4
+50,Corsair K95 Keyboard,4
+50,Adidas Ultraboost,2
+50,GoPro Hero 12,2
+50,Sony WH-1000XM5,4
+50,Logitech MX Master,4
+50,Breville Coffee Maker,5
+50,Kindle Paperwhite,4
